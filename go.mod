@@ -1,1 +1,1 @@
-module github.com/google/go-querystring
+module github.com/davidji99/go-querystring
